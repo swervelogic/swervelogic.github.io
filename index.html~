@@ -73,9 +73,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
-		<h1 class="brand-heading">Content<br>Delivery<br>Empowered</h1>
-          <h2 class="intro-text">End-to-End Asset Distribution for Every Ecosystem</h2>
-          <p>Created SwerveLogic.</p>
+		<h1 class="brand-heading">Content<br>Delivery<br>Empowered.</h1>
+          <h2 class="intro-text"></h2>
+          <p>BUILT TO DELIVER MORE WITH LESS</p>
           <a href="#about" class="btn btn-circle page-scroll">
             <i class="fa fa-angle-double-down animated"></i>
           </a>
@@ -86,23 +86,50 @@
 </header>
 
 <!-- About Section -->
-<section id="about" class="container content-section text-center">
+<section id="about" class="container content-section">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
-      <h2>About Us</h2>
-      <p>SwerveLogic is a software company based in Alameda, California. We provide a new way for digital IP suppliers
-        and downstream customers to efficiently manage the challenges of distributing large datasets.
-      <p>We understand that companies build their business models around distributing and consuming large datasets,
-        which are both sensitive to cost and the time taken in moving and managing the data. We reverse the trend of
-        high cost and slow delivery without adding more infrastructure.</p>
-      <p>Swerve Logic was founded by people focused on optimizing the distribution of large datasets. Before
-        SwerveLogic, we helped build great companies like Perforce, Digital Island, Akamai, Synopsys
-        and Cadence. Combining our experience of version control systems and optimizing content delivery networks,
-        we designed a solution that transparently understands how to move the least amount of data over the fastest
-        pipes.</p>
-      <p>SwerveLogic gets smarter by using key metrics gathered from business driven requirements such as fine-grain
-        access control, security, auditing, and logging. The smarter it gets, the more money it saves and the better
-        end user experience it delivers.</p>
+      <h1>End-to-End Digital Asset Distribution for Every Ecosystem</h1>
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>Paradigm <br>Shift</h2>
+            <h4>SwerveLogic is a market<br>
+            disruptive solution that impacts<br>
+            the way companies use Storage,<br>
+            Fast File Transfer, WAN<br>
+            optimization,CDN's and<br>
+            specialized servers.</h4>
+          </div>
+          <div class="col-lg-6">
+            <h2>Productized on the Best<h2>
+            <h4>Standing on the shoulders of<br>
+            giants, SwerveLogic's solution is based on what we<br>
+            learned developing and supporting custom<br>
+            in-house distribution solutions for the movie,<br>
+            game development, and semiconductor<br>
+            industries.</h4>
+          </div>
+        </div>
+        <br><br>
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>Intelligent Integrated Solution</h2>
+            <h4>Dynamically model, package, replicate, distribute, and download
+            digital assets efficiently to remote sites, customers, partners or
+            end-users. It's designed to cooperatively overlap and optimize existing
+            processes and infrastructure by eliminating global friction points along
+            the entire distribution pipeline.</h4>
+          </div>
+          <div class="col-lg-6">
+            <h2>Distribute Large Digital Assets</h2>
+            <h4>Eliminates scripting and coding that is unique to each shipped
+            package. Scripting requires hours if not days of coding, resulting
+            in fragile inter-dependencies and added maintenance. SwerveLogic
+            eliminates scripting all-together, allowing companies to re-purpose
+            IT resources and reduce IT infrastructure costs, wherein, providing
+            greater efficiency gains and productivity.</h4>
+          </div>
+        </div>
     </div>
   </div>
 </section>
@@ -112,10 +139,31 @@
   <div class="download-section">
     <div class="container">
       <div class="col-lg-8 col-lg-offset-2">
-        <h2>Download Baker</h2>
-        <p>Coming soon...</p>
-        <a href="https://swarm.icklelabs.com" class="btn btn-default btn-lg">Visit Download
-          Page</a>
+        <h1>DISTRIBUTE MORE WITH LESS</h1>
+        <h2>Optimized digital asset distribution pipelines without specialized IT skills</h2>
+        <div class="row">
+          <div class="package col-lg-4">
+            <img src="img/package_hero.png"></img><br><br>
+            <a href="#" class="btn btn-default btn-lg">Packaging Hero</a>
+            <br><br>
+            <h4>Rapidly manage and organize digital assets within a distribution
+              without moving them.<h4>
+          </div>
+          <div class="dist col-lg-4">
+            <img src="img/distribution_hero.png"></img><br><br>
+            <a href="#" class="btn btn-default btn-lg">Distribution Hero</a>
+            <br><br>
+            <h4>Rapidly model a distribution's ecosystem to match business
+               requirements for scaling deployments and replication.</h4>
+          </div>
+          <div class="download col-lg-4">
+            <img src="img/download_hero.png"></img><br><br>
+            <a href="#" class="btn btn-default btn-lg">Download Hero</a>
+            <br><br>
+            <h4>Rapidly manage and organize digital assets within a distribution
+              without moving them.</h4>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -125,11 +173,28 @@
 <section id="contact" class="container content-section text-center">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
+      <div class="row">
+        <div class="col-lg-6">
+          <img src="img/explore_pipelines.png"></img><br><br>
+          <a href="#" class="btn btn-default btn-lg">Explore Pipeline</a>
+          <br><br>
+          <h4>Learn why globally optimizing workflows and pipelines makes a
+            difference when delivering digital assets.</h4>
+        </div>
+        <div class="col-lg-6">
+          <img src="img/roi.png"></img><br><br>
+          <a href="#" class="btn btn-default btn-lg">Every Bit Counts Hero</a>
+          <br><br>
+          <h4>See how every bit counts when your business depends on time to market, complex vendor pricing, and user experience.
+          </h4>
+        </div>
+      </div>
       <h2>Contact SwerveLogic</h2>
-      <p>Feel free to email us to provide some feedback on Baker, give us suggestions, or to just say hello!</p>
-      <p><a href="mailto:steph@swervelogic.com">steph@swervelogic.com</a>
-      </p>
       <ul class="list-inline banner-social-buttons">
+        <li>
+          <a href="mailto:info@swervelogic.com" class="btn btn-default btn-lg"><i class="fa fa-envelope-o fa-fw"></i>
+          <span class="">Mail</span></a>
+        </li>
         <li>
           <a href="https://twitter.com/SwerveLogic" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i>
             <span class="network-name">Twitter</span></a>
@@ -146,7 +211,7 @@
 <!-- Footer -->
 <footer>
   <div class="container text-center">
-    <p>Copyright &copy; SwerveLogic 2016</p>
+    <p>Copyright &copy; SwerveLogic 2018</p>
   </div>
 </footer>
 
